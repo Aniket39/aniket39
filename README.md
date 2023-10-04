@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aniket39](https://github.com/Aniket39)
 
-- 💬 Ask me about **Full Stack Development.**
+- 💬 Ask me about **Full Stack Web Development.**
 
 - 📫 How to reach me **aniketaol95@gmail.com**
 
